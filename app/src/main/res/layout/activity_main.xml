@@ -65,7 +65,7 @@
             android:scaleType="fitXY"
 
 
-            app:srcCompat="@mipmap/my_pic" />
+            app:srcCompat="@drawable/my_pic" />
     </LinearLayout>
 
     <LinearLayout
